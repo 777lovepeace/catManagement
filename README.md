@@ -1,4 +1,4 @@
-# cat-management
+# cat-admin
 
 > A Vue.js project
 
