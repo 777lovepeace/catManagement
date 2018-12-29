@@ -7,9 +7,8 @@
 </template>
 
 <script>
-  import LateralItem from '../components/lateral-item'
+  import LateralItem from '../../components/lateral-item'
   export default {
-    name: "index",
     components: {
       LateralItem
     }
